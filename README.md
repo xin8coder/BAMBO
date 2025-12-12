@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<!-- 替换为您的 Arxiv 链接 -->
-[![arXiv](https://img.shields.io/badge/arXiv-25XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/25XX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.09972-b31b1b.svg)](https://arxiv.org/abs/2512.09972)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
 
@@ -81,7 +80,7 @@ If you find this work useful in your research, please consider citing:
 @article{chen2025bambo,
   title={BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization},
   author={Chen, Kesheng and Luo, Wenjian and Zhu, Zhenqian and Hu, Yamin and Xi, Yiya},
-  journal={arXiv preprint arXiv:25XX.XXXXX},
+  journal={arXiv preprint arXiv:2512.09972},
   year={2025}
 }
 ```
